@@ -1,0 +1,32 @@
+// Customize Bootstrap here
+
+
+$theme-colors: (
+    "primary": #3fad89,
+    "secondary": #f45978,
+    "success": #1e572b,
+    "info": #f1d000,
+    "warning": #f28700,
+    "danger": #f34037,
+    "light": #dcd9c8,
+    "dark": #12151e
+);
+
+
+$border-width: 2px;
+
+/*
+$theme-colors: (
+    "primary": #1e572b,
+    "secondary": #f34037,
+    "success": #3fad89,
+    "info": #f28700,
+    "warning": #f1d000,
+    "danger": #f45978,
+    "light": #dcd9c8,
+    "dark": #12151e
+);
+*/
+
+@import "~bootstrap/scss/bootstrap";
+
